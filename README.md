@@ -1,4 +1,4 @@
-##Implementing Redux and Thunk in functional components using React Hooks (React v 16.8+)
+## Implementing Redux and Thunk in functional components using React Hooks (React v 16.8+)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
